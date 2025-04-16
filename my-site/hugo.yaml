@@ -163,7 +163,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: ""
+    image: /images/me.jpg
     content: |-
       Hi! I'm Eric, a 22-year-old software engineer living in the Bay Area, currently an intern at Arsenal Biosciences.
 
